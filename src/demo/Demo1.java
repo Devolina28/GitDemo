@@ -21,7 +21,14 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("Hello");
+		System.out.println("Hellooooooo");
 
+	}
+	
+	@Test
+	public void postJira2()
+	{
+		System.out.println("Jira demo101");
 	}
 
 }
